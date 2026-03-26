@@ -81,7 +81,7 @@ export default function App() {
               </a>
               <div className="rounded-2xl border border-white/20 bg-white/10 px-5 py-4 text-center backdrop-blur">
                 <div className="text-sm text-white/70">Investimento especial</div>
-                <div className="text-3xl font-extrabold">R$ 35,00</div>
+                <div className="text-3xl font-extrabold">R$ 47,00</div>
               </div>
             </div>
 
@@ -301,8 +301,8 @@ export default function App() {
               </div>
 
               <div className="rounded-[2rem] bg-white/10 p-6 text-center backdrop-blur md:min-w-[240px]">
-                <div className="text-sm text-white/60 line-through">De R$ 47,00</div>
-                <div className="mt-2 text-5xl font-extrabold text-yellow-300">R$ 35,00</div>
+                <div className="text-sm text-white/60 line-through">De R$ 67,00</div>
+                <div className="mt-2 text-5xl font-extrabold text-yellow-300">R$ 47,00</div>
                 <div className="mt-2 text-sm text-white/70">Pagamento pela Hotmart</div>
               </div>
             </div>
@@ -338,7 +338,7 @@ export default function App() {
           >
             Quero Descobrir Meu Caminho Agora
           </a>
-          <div className="mt-4 text-sm text-slate-500">Apenas R$ 35,00 • acesso imediato</div>
+          <div className="mt-4 text-sm text-slate-500">Apenas R$ 47,00 • acesso imediato</div>
         </div>
       </section>
     </div>
